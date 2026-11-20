@@ -1,6 +1,6 @@
 # CoseLab - Acceptance Tests (BDD / Gherkin)
 
-Repositorio de pruebas de aceptación del proyecto **CoseLab** (`1ASI0786 - Ingeniería de Requisitos`, NRC `6855`).
+Repositorio de pruebas de aceptación del proyecto **CoseLAB** (`1ASI0786 - Ingeniería de Requisitos`, NRC `6855`).
 
 ## Estructura del proyecto
 - `features/US03_publicacion_lotes.feature` (EP02 - Core Business)
