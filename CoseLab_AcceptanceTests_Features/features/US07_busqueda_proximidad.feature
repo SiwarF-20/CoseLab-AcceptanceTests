@@ -8,7 +8,7 @@ Feature: Búsqueda y filtro por proximidad geográfica
     When aplica el filtro de búsqueda por proximidad de "<radio_km>" km
     Then el sistema lista únicamente los lotes cuya distancia sea menor o igual a "<radio_km>" km
     And ordena los resultados desde el huerto más cercano ("<huerto_cercano>")
-
+#Esto es un avance.-.
     Examples:
       | ubicacion_vecino        | radio_km | huerto_cercano           |
       | Av. Universitaria, S.M. | 2.0      | Biohuerto PUCP           |
